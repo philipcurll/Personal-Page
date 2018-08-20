@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Phil Curll | Design | Develop</title>
+        <link rel="stylesheet" href="pixstylesheet.css">
+    </head>
+
+    <body>
+        <header>
+            <nav>
+<h1>Philip Curll</h1>
+<ul id="nav">
+<li><a class="homeblack" href="piximperfecttutorial.html">home</a></li>
+<li><a class="homered" href="portfolio.html">portfolio</a></li>
+<li><a class="homeblack" href="#">about me</a></li>
+<li><a class="homeblack" href="#">contact me</a></li>
+</ul>
+            </nav>
+        </header>
+        <div class="divider">  </div>
+        <div class= "image">
+        <h1 class="portsub"> I have experience</h1>
+        <h2 class="portdes">designing</h2>
+        <h2 class="portpho">webpages with CSS.
+                    <br>Javascript & HTML.
+        </h2>
+                        
+    </div>
+    <div>
+    </div>
+    <div class = "smlinks">
+    <a href = "https://www.linkedin.com/in/philip-curll-03602643/"><img src="linked in for html.jpg" height="30" alt="linked in link"></a>
+    <a href = "https://www.instagram.com/philipcurll/"><img src="instagram logo.jpg" height="30" alt="instagram link"></a>
+    <a href = "https://www.github.com/philipcurll"><img src="Git hub logo.png" height="30" alt="git hub link"></a>
+    <a href = "https://www.northernvermont.edu"><img src="NVU logo.png" height="30" alt="nvu link"></a>
+  </div>
+    </div>
+    </body>
+</html>
